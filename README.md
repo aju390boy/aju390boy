@@ -88,23 +88,9 @@ const ajith = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=aju390boy&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=aju390boy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>&nbsp;<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aju390boy&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-tan.vercel.app/api?username=aju390boy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>&nbsp;<img height="180em" src="https://github-readme-stats-eight-tan.vercel.app/api/top-langs/?username=aju390boy&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=ffffff"/>
 
 <br/><br/>
 
@@ -172,7 +158,7 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> LeetCode Progress
 
-<a href="https://leetcode.com/u/aju390boy/"><img src="https://leetcode-stats-six.vercel.app/api?username=aju390boy&theme=dark" height="170"/></a>
+<a href="https://leetcode.com/u/aju390boy/"><img src="https://leetcard.jacoblin.cool/aju390boy?theme=dark&font=Karma&ext=heatmap" height="200"/></a>
 
 </div>
 
@@ -186,11 +172,11 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<a href="https://github.com/aju390boy/VXOR-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=VXOR-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/sorting-algorithm-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=sorting-algorithm-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
+<a href="https://github.com/aju390boy/VXOR-"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=VXOR-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/sorting-algorithm-"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=sorting-algorithm-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
 
 <br/>
 
-<a href="https://github.com/aju390boy/Starbucks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=Starbucks&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=Leetcode&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
+<a href="https://github.com/aju390boy/Starbucks"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=Starbucks&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/Leetcode"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=Leetcode&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
 
 </div>
 
@@ -202,17 +188,46 @@ const ajith = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Currently...
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> What I'm Up To
 
-```text
-Working on   →  Full-Stack MERN Applications
-Learning     →  TypeScript, Docker, System Design
-Solving      →  LeetCode DSA Problems Daily
-Looking for  →  Full-Time / Internship Opportunities
-Fun fact     →  I think in terms of time complexity
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔨 Building
+`Full-Stack MERN Applications`
+
+### 📖 Learning
+`TypeScript` &nbsp; `Docker` &nbsp; `System Design`
+
+### 🧩 Practising
+`LeetCode DSA` — solving daily
+
+</td>
+<td align="center" width="50%">
+
+### 🤝 Open To
+`Full-Time` &nbsp; `Internship` &nbsp; `Freelance`
+
+### 🌐 Portfolio
+[![Visit](https://img.shields.io/badge/sorting--algorithm--red.vercel.app-Visit-c084fc?style=flat-square&logo=vercel)](https://sorting-algorithm-red.vercel.app/)
+
+### ⚡ Fun Fact
+*I think in terms of time complexity* 😄
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
