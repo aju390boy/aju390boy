@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ajith-a-2b3779316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://leetcode.com/u/aju390boy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;<a href="https://sorting-algorithm-red.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;<a href="https://github.com/aju390boy" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Kerala-India-c084fc?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/ajith-a-2b3779316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://leetcode.com/u/ajithvsleo/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;<a href="https://sorting-algorithm-red.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;<a href="https://github.com/aju390boy" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Kerala-India-c084fc?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -158,7 +158,7 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> LeetCode Progress
 
-<a href="https://leetcode.com/u/aju390boy/"><img src="https://leetcard.jacoblin.cool/aju390boy?theme=dark&font=Karma&ext=heatmap" height="200"/></a>
+<a href="https://leetcode.com/u/ajithvsleo/"><img src="https://leetcard.jacoblin.cool/aju390boy?theme=dark&font=Karma&ext=heatmap" height="200"/></a>
 
 </div>
 
