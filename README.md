@@ -158,7 +158,7 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> LeetCode Progress
 
-<a href="https://leetcode.com/u/ajithvsleo/"><img src="https://leetcard.jacoblin.cool/aju390boy?theme=dark&font=Karma&ext=heatmap" height="200"/></a>
+<a href="https://leetcode.com/u/ajithvsleo/"><img src="https://leetcode.com/u/ajithvsleo/?theme=dark&font=Karma&ext=heatmap" height="200"/></a>
 
 </div>
 
