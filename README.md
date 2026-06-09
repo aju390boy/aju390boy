@@ -172,7 +172,7 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<a href="https://github.com/aju390boy/VXOR-"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=VXOR-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/sorting-algorithm-"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=sorting-algorithm-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
+<a href="https://github.com/aju390boy/VXOR-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=VXOR-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/sorting-algorithm-"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=sorting-algorithm-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
 
 <br/>
 
