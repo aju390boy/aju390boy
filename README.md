@@ -172,11 +172,56 @@ const ajith = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-[![VXOR](https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=VXOR-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff)](https://github.com/aju390boy/VXOR-)&nbsp;[![Sorting Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=aju390boy&repo=sorting-algorithm-&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff)](https://github.com/aju390boy/sorting-algorithm-)
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🔮 [VXOR-](https://github.com/aju390boy/VXOR-)
+A full-stack web application built with the MERN stack.
 <br/>
+![Stars](https://img.shields.io/github/stars/aju390boy/VXOR-?style=flat-square&color=c084fc&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/aju390boy/VXOR-?style=flat-square&color=a855f7&label=Forks)
+![Language](https://img.shields.io/github/languages/top/aju390boy/VXOR-?style=flat-square&color=7c3aed)
+![Size](https://img.shields.io/github/repo-size/aju390boy/VXOR-?style=flat-square&color=6d28d9&label=Size)
 
-<a href="https://github.com/aju390boy/Starbucks"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=Starbucks&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>&nbsp;<a href="https://github.com/aju390boy/Leetcode"><img src="https://github-readme-stats-eight-tan.vercel.app/api/pin/?username=aju390boy&repo=Leetcode&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/></a>
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [sorting-algorithm-](https://github.com/aju390boy/sorting-algorithm-)
+Interactive sorting algorithm visualizer deployed on Vercel.
+<br/>
+![Stars](https://img.shields.io/github/stars/aju390boy/sorting-algorithm-?style=flat-square&color=c084fc&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/aju390boy/sorting-algorithm-?style=flat-square&color=a855f7&label=Forks)
+![Language](https://img.shields.io/github/languages/top/aju390boy/sorting-algorithm-?style=flat-square&color=7c3aed)
+![Size](https://img.shields.io/github/repo-size/aju390boy/sorting-algorithm-?style=flat-square&color=6d28d9&label=Size)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ [Starbucks](https://github.com/aju390boy/Starbucks)
+A Starbucks clone — frontend UI built with HTML, CSS & JS.
+<br/>
+![Stars](https://img.shields.io/github/stars/aju390boy/Starbucks?style=flat-square&color=c084fc&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/aju390boy/Starbucks?style=flat-square&color=a855f7&label=Forks)
+![Language](https://img.shields.io/github/languages/top/aju390boy/Starbucks?style=flat-square&color=7c3aed)
+![Size](https://img.shields.io/github/repo-size/aju390boy/Starbucks?style=flat-square&color=6d28d9&label=Size)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [Leetcode](https://github.com/aju390boy/Leetcode)
+My daily LeetCode solutions — DSA practice in JavaScript.
+<br/>
+![Stars](https://img.shields.io/github/stars/aju390boy/Leetcode?style=flat-square&color=c084fc&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/aju390boy/Leetcode?style=flat-square&color=a855f7&label=Forks)
+![Language](https://img.shields.io/github/languages/top/aju390boy/Leetcode?style=flat-square&color=7c3aed)
+![Size](https://img.shields.io/github/repo-size/aju390boy/Leetcode?style=flat-square&color=6d28d9&label=Size)
+
+</td>
+</tr>
+</table>
 
 </div>
 
